@@ -1,0 +1,10 @@
+{
+  "name": "समूह साधन केंद्र लखमापूर बोरी",
+  "short_name": "लखमापूर बोरी",
+  "lang": "mr",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#087f73",
+  "background_color": "#f5f8fa",
+  "icons": [{"src":"logo.jpg","sizes":"any","type":"image/jpeg"}]
+}
